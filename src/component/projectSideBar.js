@@ -1,8 +1,10 @@
 import React from 'react'
 
-function projectSideBar() {
+const projectSideBar = () => {
   return (
-    <div>projectSideBar</div>
+    <div>
+        <h1>Hello World!</h1>
+    </div>
   )
 }
 
